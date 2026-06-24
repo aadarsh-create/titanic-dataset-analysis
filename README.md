@@ -1,6 +1,6 @@
 # Titanic Dataset — Exploratory Data Analysis
 
-Exploratory data analysis on the Titanic passenger dataset using Python.  
+Exploratory data analysis on the Titanic passenger dataset (from seaborn) using Python.  
 Covers the full pipeline: data cleaning → feature engineering → visualization.
 
 ---
@@ -26,13 +26,6 @@ Ticket price and passenger class were closely related. Passengers who paid highe
   <img src="images/survival_by_size.png" width="32%">
   <img src="images/survival_by_age_class.png" width="32%">
 </p>
-
----
-
-## Dataset
-
-- **Source:** Seaborn built-in (`sns.load_dataset('titanic')`)
-- **Size:** 891 rows × 15 columns
 
 ---
 
@@ -89,10 +82,3 @@ pandas
 matplotlib
 seaborn
 ```
-
----
-
-## How to Run
-
-Open `titanic_dataset_eda.ipynb` in Jupyter or Google Colab.  
-Dataset loads automatically via `sns.load_dataset('titanic')` — no download needed.
