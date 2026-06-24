@@ -16,9 +16,16 @@ Passengers travelling by themselves had a survival rate of only 35%. Those trave
 ### Paying more meant better odds of survival
 Ticket price and passenger class were closely related. Passengers who paid higher fares were generally in higher classes and had better survival rates.
 
-<img src="images/survival_by_sex.png" width=318></img>
-<img src="images/survival_by_size.png" width=318></img>
-<img src="images/survival_by_age_class.png" ></img>
+<p align="center">
+  <img src="images/PassengerClassCounts.png" width="32%">
+  <img src="images/survival_by_sex.png" width="32%">
+  <img src="images/SurvivalByAge.png" width="32%">
+</p>
+
+<p align="center">
+  <img src="images/survival_by_size.png" width="32%">
+  <img src="images/survival_by_age_class.png" width="32%">
+</p>
 
 ---
 
